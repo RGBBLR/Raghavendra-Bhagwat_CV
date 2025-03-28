@@ -1,195 +1,101 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raghavendra Bhagwat - Civil Engineer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            color: #333;
-            background-color: #f4f4f4;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-            padding: 2rem;
-            background: #fff;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 1rem 0;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-        }
-        nav {
-            display: flex;
-            justify-content: center;
-            margin: 1rem 0;
-        }
-        nav a {
-            color: #333;
-            text-decoration: none;
-            margin: 0 1rem;
-        }
-        nav a:hover {
-            text-decoration: underline;
-        }
-        section {
-            margin: 2rem 0;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem 0;
-            background: #333;
-            color: #fff;
-        }
-        .contact-info {
-            text-align: center;
-            margin-bottom: 2rem;
-        }
-        .contact-info a {
-            color: #333;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
+# Raghavendra V Bhagwat
 
-    <header>
-        <h1>Raghavendra Bhagwat</h1>
-        <p>Assistant Manager - Planning | Godrej Properties | LEED Green Associate | NICMAR</p>
-    </header>
+### Asst Manager - Planning | Mixed-Use Developments | LEED Green Associate | NICMAR  
 
-    <nav>
-        <a href="#profile">Profile</a>
-        <a href="#experience">Experience</a>
-        <a href="#education">Education</a>
-        <a href="#projects">Projects</a>
-        <a href="#certificates">Certificates</a>
-        <a href="#skills">Skills</a>
-        <a href="#interests">Interests</a>
-    </nav>
+📧 Email: raghubhagwat@gmail.com  
+📞 Mobile: 08904145838  
+🔗 LinkedIn: [linkedin.com/in/RaghuBhagwat](https://linkedin.com/in/RaghuBhagwat)  
 
-    <div class="container">
-        <section id="profile">
-            <h2>Professional Profile</h2>
-            <p>
-                To obtain a challenging position and implement the acquired skills & knowledge which add value to
-                department goals and ultimately the organizational growth & objectives. I am dedicated, committed, and reliable,
-                capable of delivering results both individually and in a team, have a passion for self-learning to develop professional
-                competencies, particularly with the use of technology, with a natural determination and persistence to achieve goals.
-            </p>
-        </section>
+---
 
-        <section id="experience">
-            <h2>Professional Experience</h2>
-            <h3>AM Planning, Projects (Residential) - Godrej Properties</h3>
-            <p><strong>07/2022 – Present | Bangalore</strong></p>
-            <ul>
-                <li>Preparing project micro-schedules and Tender Event schedules for all project-related activities.</li>
-                <li>Coordinating with contractors/vendors from kickoff meetings to the handover of respective packages.</li>
-                <li>Conducting progress review meetings and preparing various reports like Progress Report, Staff requirement report, etc.</li>
-            </ul>
-            <h3>Dy Manager - Planning, Projects (Retail Space) - Prestige Group</h3>
-            <p><strong>2019 – 2022 | Bangalore, India</strong></p>
-            <ul>
-                <li>Preparing all retail project budgets, including one Commercial (Alphatech, Pune).</li>
-                <li>Preparing project schedules and compiling micro schedules submitted by contractors/vendors.</li>
-                <li>Tracking daily productivity, checking RABills, and preparing anticipated final closure.</li>
-                <li>Implemented Project Management applications like Power Play and OneDrive for data management.</li>
-            </ul>
-            <h3>Deputy Manager - Development (Commercial Office Space) - RMZ Corp</h3>
-            <p><strong>2014 – 2019 | Bangalore, India</strong></p>
-            <ul>
-                <li>Coordinated with internal & external stakeholders and managed day-to-day site operations.</li>
-                <li>Implemented technologies like BIM, nPlus (Project Management application), and SAP (ERP system).</li>
-                <li>Prepared detailed Bill of Quantities and verified work measurements.</li>
-            </ul>
-            <h3>Engineer, Site Execution (Houses) - RAA Design Studio</h3>
-            <p><strong>2013 – 2014 | Vijayapura</strong></p>
-            <ul>
-                <li>Assisted in drafting house & commercial building plans and prepared construction blueprints.</li>
-                <li>Managed material resources and supervised ongoing construction projects.</li>
-            </ul>
-        </section>
+## 📌 Professional Summary  
 
-        <section id="education">
-            <h2>Education</h2>
-            <p><strong>National Institute of Construction Management and Research</strong></p>
-            <p>Post Graduate Programme in Quantity Surveying | 2015 – 2017</p>
-            <p><strong>Visvesvaraya Technological University</strong></p>
-            <p>Bachelor's Degree in Civil Engineering - 70.43% | 2009 – 2013 | Vijayapura, Karnataka</p>
-        </section>
+Versatile **Planning & Project Management** professional with extensive experience in **Commercial, Retail, Residential, and Hospitality** sectors. Expertise in:  
 
-        <section id="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="https://www.godrejproperties.com/bangalore/residential/godrej-splendour/overview" target="_blank">Godrej Splendour, Whitefield</a> - Residential</li>
-                <li>Prestige Forum REX Walk & Nilgiris, Bangalore - Retail and F&B (Planning, Coordination & Execution)</li>
-                <li>Prestige Falcon City Mall & Auditorium, Bangalore - Shopping Mall (Planning & Coordination)</li>
-                <li><a href="https://www.rmzecoworld.com/" target="_blank">RMZ Ecoworld, Bangalore</a> - Office Space (Planning, Coordination & Execution)</li>
-                <li>Prestige Alphatech, Pune - Mixed Development (Planning & Coordination)</li>
-                <li>Prestige Forum Kochi Mall, Kochi - Shopping Mall (Planning & Coordination)</li>
-                <li><a href="https://www.rmzhomes.com/rmz-sawaan" target="_blank">RMZ Sawaan, Bangalore</a> - Luxurious villas (Site Engineer)</li>
-                <li><a href="https://www.cowrks.com/" target="_blank">Cowrks (PAN India)</a> - CoWorking Space (Planning & Coordination)</li>
-                <li><a href="https://www.rmzcorp.com/hyderabad/nexity" target="_blank">RMZ Nexity, Hyderabad</a> - Office Space (BIM Coordinator)</li>
-                <li>Independent houses & Commercial Buildings, Vijayapura - Site Engineer & Draftsman</li>
-            </ul>
-        </section>
+- High-rise residential and premium commercial office spaces  
+- Large-scale retail malls and hospitality projects  
+- Project scheduling, budgeting, procurement, and risk management  
+- Technology-driven solutions for enhanced project efficiency  
+- Cost control, compliance, and sustainability (**LEED Green Associate**)  
 
-        <section id="certificates">
-            <h2>Certificates</h2>
-            <p>USGBC LEED Green Associate (Scored 194/200)</p>
-        </section>
+---
 
-        <section id="skills">
-            <h2>Professional Skills</h2>
-            <ul>
-                <li>Microsoft Office</li>
-                <li>SAP ECP (Easy Cost Planning)</li>
-                <li>AutoCAD 2018</li>
-                <li>MS Projects 2016</li>
-                <li>nPulse (Project management)</li>
-                <li>Revit Architecture</li>
-                <li>AUTODESK Naviswork</li>
-                <li>BIM DOC 360</li>
-                <li>Adobe Photoshop</li>
-            </ul>
+## 💼 Professional Experience  
 
-            <h2>Personal Skills</h2>
-            <ul>
-                <li>Communication</li>
-                <li>Learnability</li>
-                <li>Creativity</li>
-                <li>Team Player</li>
-                <li>Socializing</li>
-            </ul>
-        </section>
+### **RTRL | Bangalore, India**  
+**Senior Project Manager - Planning** (Mixed-Use Development: Residential, Retail, Commercial, Hotel) | **Jun 2024 – Present**  
 
-        <section id="interests">
-            <h2>Interests</h2>
-            <ul>
-                <li>Economics</li>
-                <li>Technology</li>
-                <li>Investment</li>
-                <li>Reading (Non-Fiction)</li>
-                <li>Chess</li>
-                <li>Badminton</li>
-            </ul>
-        </section>
-    </div>
+- Developed integrated master schedules ensuring synchronization across all verticals.  
+- Coordinated with investors, contractors, design consultants, and engineers.  
+- Managed cash flow planning and cost tracking for multiple asset classes.  
+- Ensured compliance with **IGBC, RERA, and Quality standards**.  
+- Led procurement planning, tendering, and vendor negotiations.  
 
-    <footer>
-        <p>&copy; 2024 Raghavendra Bhagwat. All rights reserved.</p>
-    </footer>
+### **Godrej Properties | Bangalore, India**  
+**Assistant Manager - Planning** (High-Rise Residential Projects) | **2022 – 2024**  
 
-</body>
-</html>
+- Developed detailed project **micro-schedules** and tracked execution progress.  
+- Collaborated with **architectural, structural, MEP, execution, and procurement** teams.  
+- Ensured IGBC Green Building compliance for sustainable construction.  
+- Monitored project performance and mitigated potential delays.  
+
+### **Prestige Group | Bangalore, India**  
+**Deputy Manager - Planning** (Retail & Commercial Projects) | **2019 – 2022**  
+
+- Spearheaded planning for large-scale **retail malls (Forum Malls) and commercial spaces**.  
+- Led **tendering and procurement strategies**, optimizing vendor performance.  
+- Prepared detailed budget reports, regularly updating **BTCM (Budget Tracking & Cost Management)**.  
+
+### **RMZ Corp | Bangalore, India**  
+**Deputy Manager - Development** (Premium Commercial Office Spaces) | **2014 – 2019**  
+
+- Managed execution of **Grade-A commercial office buildings**.  
+- Led **BIM implementation** using Autodesk Revit and Navisworks.  
+- Tracked **CAPEX for CoWrks (PAN India)**, optimizing cost per sqft analysis.  
+
+### **RAA Design Studio | Vijayapura, India**  
+**Site Engineer** (Residential & Commercial Projects) | **2013 – 2014**  
+
+- Assisted in **architectural drafting and blueprint preparation**.  
+- Supervised site execution and ensured design compliance.  
+
+---
+
+## 🎓 Education & Certifications  
+
+- **PG Programme in Quantity Surveying** | National Institute of Construction Management and Research (2015 – 2017)  
+- **B.E. Civil Engineering (70.43%)** | Visvesvaraya Technological University (2009 – 2013)  
+- **LEED Green Associate** (Scored 194/200)  
+
+---
+
+## 🔧 Technical Skills  
+
+- **Project Management**: MS Project, SAP ERP, Power BI  
+- **Building Information Modeling (BIM)**: Autodesk Revit, Navisworks  
+- **Data & Reporting Tools**: Advanced Excel, Power Play, OneDrive  
+- **Contracts & Procurement**: BOQ Analysis, Tendering, Vendor Coordination  
+
+---
+
+## 🏗️ Key Projects  
+
+| **Company**              | **Project**                                     | **Details** |
+|-------------------------|------------------------------------------------|-------------|
+| **Ramsons Trendsquares** | East Park Residence, Bengaluru | 1.2 MSF Residential (600 Units), 1.2 MSF Shopping Mall, 0.8 MSF Office, 250 Keys Hotel |
+|                         | Phase 02, Bengaluru | 1.8 MSF Residential (900 Units), 1.2 MSF Shopping Mall, 0.8 MSF Office, 250 Keys Hotel |
+| **Prestige Group**      | Prestige Forum REX Walk & Nilgiris | 0.16 MSF Retail & F&B |
+|                         | Prestige Falcon City Mall & Auditorium | 0.95 MSF Shopping Mall & 0.1 MSF Auditorium |
+|                         | Prestige Alphatech, Pune | 0.91 MSF Office Space |
+|                         | Prestige Forum Kochi Mall, Kochi | 0.65 MSF Shopping Mall |
+| **RMZ Corp**            | RMZ Ecoworld, Bangalore | 3 MSF Office Space (Total 7 MSF) |
+|                         | Cowrks, PAN India | 800+ Seats |
+| **RAA Design Studio**   | Independent Houses & Commercial Buildings, Vijayapura | 30+ Buildings |
+
+---
+
+## 🌍 Personal Details  
+
+- **Location**: Bangalore, India  
+- **Languages**: English, Kannada, Hindi, Marathi  
+
