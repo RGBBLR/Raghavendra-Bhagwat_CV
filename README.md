@@ -1,6 +1,6 @@
 # Raghavendra V Bhagwat
 
-### Asst Manager - Planning | Mixed-Use Developments | LEED Green Associate | NICMAR  
+### Senior Project Manager | Mixed-Use Developments | LEED Green Associate | NICMAR  
 
 📧 Email: raghubhagwat@gmail.com  
 📞 Mobile: 08904145838  
@@ -22,7 +22,7 @@ Versatile **Planning & Project Management** professional with extensive experien
 
 ## 💼 Professional Experience  
 
-### **RTRL | Bangalore, India**  
+### **Ramsons Trendsquares | Bangalore, India**  
 **Senior Project Manager - Planning** (Mixed-Use Development: Residential, Retail, Commercial, Hotel) | **Jun 2024 – Present**  
 
 - Developed integrated master schedules ensuring synchronization across all verticals.  
